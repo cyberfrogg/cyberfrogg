@@ -1,5 +1,3 @@
-<h3>Abooba</h3>
-
-<div style="background-color: red; width: 100px; height: 100px;">
-  aa
-</div>
+ <iframe src="https://pufferfishstudio.xyz/" width="468" height="60" align="left">
+    Ваш браузер не поддерживает плавающие фреймы!
+ </iframe>
