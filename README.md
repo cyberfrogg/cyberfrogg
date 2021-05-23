@@ -1,4 +1,4 @@
-<h1 align="center">Hi, im cyberfrogg</h1>
+<h1 align="center" style="color: red">Hi, im cyberfrogg</h1>
 <h3 align="center">Game and Web developer from Pufferfish Studio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberfrogg&label=Profile%20views&color=0e75b6&style=flat" alt="cyberfrogg" /> </p>
