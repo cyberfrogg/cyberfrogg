@@ -1,9 +1,6 @@
 ### Hi, Im cyberfrogg
-#### Game and web developer from Pufferfish Studio
+#### Take me to work :(
 
-These projects can be used to modify them or fix bugs.
-
-![Game and web developer from Pufferfish Studio](https://pufferfishstudio.xyz/media/2.png)
 
 ![Profile views](https://gpvc.arturio.dev/cyberfrogg)  
 
