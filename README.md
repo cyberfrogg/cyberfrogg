@@ -1,5 +1,4 @@
 ### Hi, Im cyberfrogg
-#### Take me to work :(
 
 
 ![Profile views](https://gpvc.arturio.dev/cyberfrogg)  
