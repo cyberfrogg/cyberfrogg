@@ -1,4 +1,4 @@
-# Hi, Im cyberfrogg
+# Hi, Im cyberfrogg. Developer & designer
 
 
 ![Profile views](https://gpvc.arturio.dev/cyberfrogg)  
@@ -10,3 +10,4 @@
 
 ##My websites:
 * https://redgamenews.com/
+* https://cyberfrogg.com/
