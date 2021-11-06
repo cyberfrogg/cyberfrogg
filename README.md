@@ -5,10 +5,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/cyberfrogg)  
 
-## Current project:
-
-[**Employed Physics** - physics sandbox](https://github.com/cyberfrogg/Employed-Physics) - My project, which I am doing in my spare time.
-
 ## Contacts: 
 ### My websites:
 * https://redgamenews.com/
