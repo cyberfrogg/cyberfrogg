@@ -5,11 +5,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/cyberfrogg)  
 
-## Contacts: 
-### My websites:
-* https://redgamenews.com/
-* https://cyberfrogg.com/
-
 
 ### My socials:
 
