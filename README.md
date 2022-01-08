@@ -10,6 +10,7 @@
 |Name|Type|Link|Description|Complete(%)|
 |----|----|----|-----------|-----------|
 |ProperNewsFeed|Web|https://propernewsfeed.com/|News portal in tiktok-style. The site has social network functions and post selection algorithms. Written in: php, wordpress|40%|
+|ScreenToASCII|App|https://github.com/cyberfrogg/Screen-To-ASCII|Simple screen capturer, that translates screen image to console ASCII (fast)|90%|
 ---
 ## My Gamedev pet-projects:
 |Name|Link|
