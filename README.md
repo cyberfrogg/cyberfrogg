@@ -3,7 +3,7 @@
 # cyberfrogg
 **Indie Game Developer**, **Web developer**, **Designer**, **SEO manager**
 
-![Profile views](https://gpvc.arturio.dev/cyberfrogg)  
+![](https://komarev.com/ghpvc/?username=cyberfrogg)
 
 ---
 ## My production projects:
