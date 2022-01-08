@@ -3,8 +3,6 @@
 # cyberfrogg
 **Indie Game Developer**, **Web developer**, **Designer**, **SEO manager**
 
-![](https://komarev.com/ghpvc/?username=cyberfrogg)
-
 ---
 ## My production projects:
 |Name|Type|Link|Description|Complete(%)|
