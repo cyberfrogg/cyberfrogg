@@ -1,7 +1,7 @@
 
 
 # cyberfrogg
-**Indie Game Developer**, **Web developer**, **Designer**, **SEO manager**
+**Indie Game Developer**, **Web Developer**, **Designer**, **SEO manager**
 
 ---
 ## My production projects:
