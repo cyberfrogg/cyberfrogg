@@ -17,10 +17,6 @@
 |Battle City clone| https://github.com/cyberfrogg/BattleCity-Clone |
 |Cube surfer core-mechanic| https://github.com/cyberfrogg/Cube-Surfer-clone |
 ---
-## My Web pet-projects:
-|Name|Link|
-|----|----|
-|Social network on React (front/back)| https://github.com/cyberfrogg/React-Social |
 
 
 
