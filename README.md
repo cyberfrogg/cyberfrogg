@@ -14,7 +14,6 @@
 |Name|Link|
 |----|----|
 |Moon Pioneer Clone| https://github.com/cyberfrogg/Moon-Pioneer-Clone |
-|Simple fighter-clicker| https://github.com/cyberfrogg/Simple-Clicker-Showcase |
 |Battle City clone| https://github.com/cyberfrogg/BattleCity-Clone |
 |Cube surfer core-mechanic| https://github.com/cyberfrogg/Cube-Surfer-clone |
 ---
