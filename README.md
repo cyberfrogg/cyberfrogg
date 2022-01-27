@@ -6,7 +6,7 @@
 Hi 👋, I am a developer from Russia. I build websites and make indie and hyper-casual games in Unity. I got my first job as a freelance game developer when I was 14 😎 and have been working since 2019. I love making games and creating applications that will be useful to others! 💖
 
 
-## Some stats and info
+## Stats & Info
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyberfrogg&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Frog gif](https://raw.githubusercontent.com/cyberfrogg/cyberfrogg/main/Pixel%20frog%20gif.gif)
 
