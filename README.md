@@ -3,20 +3,13 @@
 # cyberfrogg
 **Indie Game Developer**, **Web Developer**, **Designer**, **SEO manager**
 
----
-## My production projects:
-|Name|Type|Link|Description|Complete(%)|
-|----|----|----|-----------|-----------|
-|ProperNewsFeed|Web|https://propernewsfeed.com/|News portal in tiktok-style. The site has social network functions and post selection algorithms. Written in: php, wordpress|40%|
-|ScreenToASCII|App|https://github.com/cyberfrogg/Screen-To-ASCII|Simple screen capturer, that translates screen image to console ASCII (fast)|90%|
----
-## My Gamedev pet-projects:
-|Name|Link|
-|----|----|
-|Moon Pioneer Clone| https://github.com/cyberfrogg/Moon-Pioneer-Clone |
-|Battle City clone| https://github.com/cyberfrogg/BattleCity-Clone |
-|Cube surfer core-mechanic| https://github.com/cyberfrogg/Cube-Surfer-clone |
----
+Hi 👋, I am a developer from Russia. I build websites and make indie and hyper-casual games in Unity. I got my first job as a freelance game developer when I was 14 😎 and have been working since 2019. I love making games and creating applications that will be useful to others! 💖
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberfrogg)](https://github.com/cyberfrogg)
+
+## My Best Projects
+[![Battle City Clone](https://github-readme-stats.vercel.app/api/pin/?username=cyberfrogg&repo=BattleCity-Clone)](https://github.com/cyberfrogg/BattleCity-Clone)
+[![Moon Pioneer Clone](https://github-readme-stats.vercel.app/api/pin/?username=cyberfrogg&repo=Moon-Pioneer-Clone)](https://github.com/cyberfrogg/Moon-Pioneer-Clone)
 
 
 
