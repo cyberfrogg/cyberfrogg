@@ -9,6 +9,10 @@ Hi 👋, I am a developer from Russia. I build websites and make indie and hyper
 ## Stats & Info
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyberfrogg&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Frog gif](https://raw.githubusercontent.com/cyberfrogg/cyberfrogg/main/Pixel%20frog%20gif.gif)
+### Jams 🍒 and Awards 🏆
+* HCJC hyper-casual game jam member 🍒
+* Brackeys game jam 2022 member 🍒
+* First commercial website at 14y 🏆
 
 ## My Best Projects
 [![Moon Pioneer Clone](https://github-readme-stats.vercel.app/api/pin/?username=cyberfrogg&repo=Moon-Pioneer-Clone)](https://github.com/cyberfrogg/Moon-Pioneer-Clone)
