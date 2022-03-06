@@ -12,7 +12,7 @@ Hi 👋, I am a developer from Russia. I build websites and make indie and hyper
 ### Jams 🍒 and Awards 🏆
 * 🍒 HCJC hyper-casual game jam member 
 * 🍒 Brackeys game jam 2022 member 
-* 🏆 First commercial website at 14y 
+* 🏆 First commercial website at 14
 
 ## My Best Projects
 [![Moon Pioneer Clone](https://github-readme-stats.vercel.app/api/pin/?username=cyberfrogg&repo=Moon-Pioneer-Clone)](https://github.com/cyberfrogg/Moon-Pioneer-Clone)
