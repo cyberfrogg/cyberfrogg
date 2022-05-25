@@ -7,7 +7,7 @@ Hi 👋, I am a developer from Russia. I build websites and make indie and hyper
 
 
 ## Stats & Info
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyberfrogg&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyberfrogg&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Frog gif](https://raw.githubusercontent.com/cyberfrogg/cyberfrogg/main/Pixel%20frog%20gif.gif)
 ### Jams 🍒 and Awards 🏆
 * 🍒 HCJC hyper-casual game jam member.
