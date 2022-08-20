@@ -15,6 +15,8 @@ Hi 👋, I am a developer from Russia. I build websites and make indie and hyper
 * 🏆 First commercial website at 14
 
 ## My Best Projects
+
+[![Stack Clone](https://github-readme-stats.vercel.app/api/pin/?username=cyberfrogg&repo=Stack-Clone)](https://github.com/cyberfrogg/Stack-Clone)
 [![Moon Pioneer Clone](https://github-readme-stats.vercel.app/api/pin/?username=cyberfrogg&repo=Moon-Pioneer-Clone)](https://github.com/cyberfrogg/Moon-Pioneer-Clone)
 [![Battle City Clone](https://github-readme-stats.vercel.app/api/pin/?username=cyberfrogg&repo=Flappy-Bird-Clone)](https://github.com/cyberfrogg/Flappy-Bird-Clone)
 [![Money Rush Clone](https://github-readme-stats.vercel.app/api/pin/?username=cyberfrogg&repo=Money-Rush-Clone)](https://github.com/cyberfrogg/Money-Rush-Clone)
