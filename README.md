@@ -13,6 +13,7 @@ Hi 👋, I am a developer from Russia. I build websites and make indie and hyper
 * 🍒 HCJC hyper-casual game jam member.
 * 🍒 Brackeys game jam 2022 member.
 * 🏆 First commercial website at 14
+* 🏆 Twitch Affiliate
 
 ## My Best Projects
 
