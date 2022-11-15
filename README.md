@@ -7,8 +7,11 @@ Hi 👋, I am **Game Developer**, **Web Developer**, **Designer** and **Frog lov
 Project stability and scalability - is my main target. Im always in research and development best solution for game development and projects main. Im game-dev industry are so many parts and fields, that can be optimized for faster and more quality product.
 
 My progress:
+
 🛠 Build scalable unity architecture for quick project spin-up
+
 🛠 Managable multiplayer hosting server
+
 🛠 RPGUtils Tool
 
 📚 Experience (4y+)
