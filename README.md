@@ -7,24 +7,15 @@ Hi 👋, I am **Game Developer**, **Web Developer**, **Designer** and **Frog lov
 Project stability and scalability - is my main target. Im always in research and development best solution for game development and projects main. Im game-dev industry are so many parts and fields, that can be optimized for faster and more quality product.
 
 My progress:
-
-🛠 Build scalable unity architecture for quick project spin-up
-
-🛠 Managable multiplayer hosting server
-
-🛠 RPGUtils Tool
+- 🛠 Build scalable unity architecture for quick project spin-up
+- 🛠 Managable multiplayer hosting server
+- 🛠 RPGUtils Tool
 
 📚 Experience (4y+)
-📕 (2022+) - Proffesional game & web development
-📙 (2020 - 2021) - First full time job and expanding skills
-📗 (2019 - 2020) - Freelance (web, small games)
-📘 (2018) - Learning (gamedev)
-
-Jams 🍒 and Awards 🏆
-🍒 HCJC hyper-casual game jam member.
-🍒 Brackeys game jam 2022 member.
-🏆 First commercial website at 14
-🏆 Twitch Affiliate
+- 📕 (2022+) - Proffesional game & web development
+- 📙 (2020 - 2021) - First full time job and expanding skills
+- 📗 (2019 - 2020) - Freelance (web, small games)
+- 📘 (2018) - Learning (gamedev)
 
 ## Stats & Info
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyberfrogg&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
