@@ -1,10 +1,27 @@
 
 
 # cyberfrogg
-**Indie Game Developer**, **Web Developer**, **Designer** and **Frog lover**
 
-Hi 👋, I am a developer from Russia. I build websites and make indie and hyper-casual games in Unity. I got my first job as a freelance game developer when I was 14 😎 and have been working since 2019. I love making games and creating applications that will be useful to others! 💖
+Hi 👋, I am **Game Developer**, **Web Developer**, **Designer** and **Frog lover 🐸**.
 
+Project stability and scalability - is my main target. Im always in research and development best solution for game development and projects main. Im game-dev industry are so many parts and fields, that can be optimized for faster and more quality product.
+
+My progress:
+🛠 Build scalable unity architecture for quick project spin-up
+🛠 Managable multiplayer hosting server
+🛠 RPGUtils Tool
+
+📚 Experience (4y+)
+📕 (2022+) - Proffesional game & web development
+📙 (2020 - 2021) - First full time job and expanding skills
+📗 (2019 - 2020) - Freelance (web, small games)
+📘 (2018) - Learning (gamedev)
+
+Jams 🍒 and Awards 🏆
+🍒 HCJC hyper-casual game jam member.
+🍒 Brackeys game jam 2022 member.
+🏆 First commercial website at 14
+🏆 Twitch Affiliate
 
 ## Stats & Info
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyberfrogg&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -31,3 +48,4 @@ Hi 👋, I am a developer from Russia. I build websites and make indie and hyper
 * <img src="https://raw.githubusercontent.com/cyberfrogg/cyberfrogg/ae39bf7c11c1e36b32d429e28532d95a844e816d/social_icon_twitter.svg" alt="twitter" width="14" height="14"/>  Twitter: [@cyberfrogg_](https://twitter.com/cyberfrogg_)
 * <img src="https://raw.githubusercontent.com/cyberfrogg/cyberfrogg/05d2c8d6609df2ee94ba9a0e615093bdeffdfbbc/social_icon_telegram.svg" alt="telegram" width="14" height="14"/>  Telegram: [@cyberfrogg](https://t.me/cyberfrogg)
 * My website: [cyberfrogg.com](https://cyberfrogg.com)
+* Linkedin: [Linkedin Profile](https://www.linkedin.com/in/alexander-sudnik-a051b122a)
