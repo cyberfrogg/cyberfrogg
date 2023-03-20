@@ -11,7 +11,7 @@ My progress:
 - 🛠 Managable multiplayer hosting server
 - 🛠 RPGUtils Tool
 
-📚 Experience (4y+)
+📚 Experience (5y+)
 - 📕 (2022+) - Proffesional game & web development
 - 📙 (2020 - 2021) - First full time job and expanding skills
 - 📗 (2019 - 2020) - Freelance (web, small games)
