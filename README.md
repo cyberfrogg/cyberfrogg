@@ -36,7 +36,7 @@ My progress:
 
 open-social-platform-backend-users
 ## Web Projects (front/back)
-[![Open Social Platform](https://github-readme-stats.vercel.app/api/pin/?username=cyberfrogg&repo=open-social-platform)](https://github.com/cyberfrogg/open-social-platform)
+[![Open Social Platform - Frontend](https://github-readme-stats.vercel.app/api/pin/?username=cyberfrogg&repo=open-social-platform-frontend)](https://github.com/cyberfrogg/open-social-platform-frontend)
 [![Open Social Platform - Backend Service (Users)](https://github-readme-stats.vercel.app/api/pin/?username=cyberfrogg&repo=open-social-platform-backend-users)](https://github.com/cyberfrogg/open-social-platform-backend-users)
 
 ## Languages and tools
