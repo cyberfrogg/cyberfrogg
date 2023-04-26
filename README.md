@@ -21,7 +21,6 @@ I’m always researching and developing the **best solutions** for game developm
 
 ## Key skills:
 | 🟨 Unity       | 🟨 C#     | 🟨 .NET    |
-|---------------|----------|-----------|
 | 🟨 Multiplayer | 🟨 Podman | 🟨 Docker  |
 | 🟨 NEXTJS      | 🟨 NodeJS | 🟨 Android |
 | 🟨 Kotlin      | 🟨 C++    | 🟨 PM      |
