@@ -28,10 +28,10 @@ I’m always researching and developing the **best solutions** for game developm
 | 🟨 Kotlin      | 🟨 C++    | 🟨 PM      |
 
 
-Best Projects:
-🎮 Into the Backrooms (GooglePlay): http://bit.ly/3OnChaP
-🎮 FlashBall (GooglePlay): https://bit.ly/40AgsJC
-🎮 Run Dimension (GooglePlay) - https://bit.ly/3j9r8vS
+## Best Projects:
+- 🎮 Into the Backrooms (GooglePlay): http://bit.ly/3OnChaP
+- 🎮 FlashBall (GooglePlay): https://bit.ly/40AgsJC
+- 🎮 Run Dimension (GooglePlay) - https://bit.ly/3j9r8vS
 
 ## GameDev Open Projects
 
