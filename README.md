@@ -20,6 +20,8 @@ I’m always researching and developing the **best solutions** for game developm
 - 🟩 Twitch self-streaming “AI” Bot
 
 ## Key skills:
+| 🟨 | 🟨 | 🟨 |
+| --- | --- | --- |
 | 🟨 Unity       | 🟨 C#     | 🟨 .NET    |
 | 🟨 Multiplayer | 🟨 Podman | 🟨 Docker  |
 | 🟨 NEXTJS      | 🟨 NodeJS | 🟨 Android |
