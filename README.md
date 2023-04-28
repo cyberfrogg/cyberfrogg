@@ -9,10 +9,10 @@ I’m always researching and developing the **best solutions** for game developm
 
 
 ## What I do:
-🛠 Building scalable **unity architecture** for a** quick project spin-up** and **long term stability**
-🛠 Managing **multiplayer** hosting server
-🛠 **RPGUtils** tool for creating **MMORPG** games.
-🛠 **MicroService** architecture for Open Source Social platform
+- 🛠 Building scalable **unity architecture** for a** quick project spin-up** and **long term stability**
+- 🛠 Managing **multiplayer** hosting server
+- 🛠 **RPGUtils** tool for creating **MMORPG** games.
+- 🛠 **MicroService** architecture for Open Source Social platform
 
 ## Interesting projects I did:
 - 🟩 Factorio-like Render Engine 
