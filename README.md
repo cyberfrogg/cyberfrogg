@@ -19,14 +19,6 @@ I’m always researching and developing the **best solutions** for game developm
 - 🟩 Contribution to Minecraft Server Core on C# .NET
 - 🟩 Twitch self-streaming “AI” Bot
 
-## Key skills:
-| 🟨 | 🟨 | 🟨 |
-| --- | --- | --- |
-| 🟨 Unity       | 🟨 C#     | 🟨 .NET    |
-| 🟨 Multiplayer | 🟨 Podman | 🟨 Docker  |
-| 🟨 NEXTJS      | 🟨 NodeJS | 🟨 Android |
-| 🟨 Kotlin      | 🟨 C++    | 🟨 PM      |
-
 
 ## Best Projects:
 - 🎮 Into the Backrooms (GooglePlay): http://bit.ly/3OnChaP
