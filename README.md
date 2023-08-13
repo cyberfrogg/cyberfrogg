@@ -14,12 +14,6 @@ I’m always researching and developing the **best solutions** for game developm
 - 🛠 **RPGUtils** tool for creating **MMORPG** games.
 - 🛠 **MicroService** architecture for Open Source Social platform
 
-## Interesting projects I did:
-- 🟩 Factorio-like Render Engine 
-- 🟩 Contribution to Minecraft Server Core on C# .NET
-- 🟩 Twitch self-streaming “AI” Bot
-
-
 ## Best Projects:
 - 🎮 Into the Backrooms (GooglePlay): http://bit.ly/3OnChaP
 - 🎮 FlashBall (GooglePlay): https://bit.ly/40AgsJC
