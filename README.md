@@ -22,8 +22,8 @@ I’m always researching and developing the **best solutions** for game developm
 
 ## Contact me
 
-* <img src="https://raw.githubusercontent.com/cyberfrogg/cyberfrogg/ae39bf7c11c1e36b32d429e28532d95a844e816d/social_icon_twitter.svg" alt="twitter" width="14" height="14"/>  Twitter: [@cyberfrogg_](https://twitter.com/cyberfrogg_)
-* <img src="https://raw.githubusercontent.com/cyberfrogg/cyberfrogg/05d2c8d6609df2ee94ba9a0e615093bdeffdfbbc/social_icon_telegram.svg" alt="telegram" width="14" height="14"/>  Telegram: [@cyberfrogg](https://t.me/cyberfrogg)
+* Twitter: [@cyberfrogg_](https://twitter.com/cyberfrogg_)
+* Telegram: [@cyberfrogg](https://t.me/cyberfrogg)
 * My website: [cyberfrogg.com](https://cyberfrogg.com)
 * mastodon.online: [@cyberfrogg](https://mastodon.online/)
 * Linkedin: [Linkedin Profile](https://www.linkedin.com/in/alexander-sudnik-a051b122a)
