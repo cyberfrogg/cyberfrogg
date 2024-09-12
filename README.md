@@ -32,4 +32,4 @@ Recenltly I moved to big-tech company called **#[DATA EXPUNGED]#** to work on **
 * Telegram: [@cyberfrogg](https://t.me/cyberfrogg)
 * My website: [cyberfrogg.com](https://cyberfrogg.com)
 * mastodon.online: [@cyberfrogg](https://mastodon.online/)
-* Linkedin: [Linkedin Profile](https://www.linkedin.com/in/alexander-sudnik-a051b122a)
+* Linkedin: [Linkedin Profile](https://linkedin.com/in/alexander-sudnik)
